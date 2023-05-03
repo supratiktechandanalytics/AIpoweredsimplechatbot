@@ -61,7 +61,7 @@ Congrats! The app should now be running on <http://localhost:5000>
 
 ### Preview
 
-![Screenshot](templates/screenshot.jpg)
+![Chatbot](https://github.com/supratiksarkaremp22/AIpoweredsimplechatbot/blob/main/templates/chatbot.jpg)
 
 ## How do I deploy this to a web server?
 
