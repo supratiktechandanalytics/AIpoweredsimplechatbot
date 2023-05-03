@@ -36,7 +36,7 @@ git clone https://github.com/supratiksarkaremp22/AIpoweredsimplechatbot
 - Open the terminal/cmd and navigate to the project folder.
 
 ```bash
-cd ChatBot-Flask
+cd AIpoweredsimplechatbot
 ```
 
 - Install the requirments.txt using
