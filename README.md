@@ -81,6 +81,6 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch
 5. Open a Pull Request
 
-## License
+## Engineer
 
-Distributed under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/). See `LICENSE` for more information.
+Supratik Sarkar.
