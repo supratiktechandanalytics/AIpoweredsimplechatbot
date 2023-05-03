@@ -30,7 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Clone the repository using
 
 ```bash
-git clone https://github.com/VRohit1901/ChatBot-Flask
+git clone https://github.com/supratiksarkaremp22/AIpoweredsimplechatbot
 ```
 
 - Open the terminal/cmd and navigate to the project folder.
