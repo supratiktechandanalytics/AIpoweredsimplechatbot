@@ -23,7 +23,7 @@ First, the chatbot is trained with a set of training data present in `/data` dir
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. Make sure you have Python installed on your machine.
+These instructions will get you a copy of the project up and running on local machine for development and testing purposes.
 
 ### Setting up the Project
 
@@ -65,21 +65,7 @@ Congrats! The app should now be running on <http://localhost:5000>
 
 ## How do I deploy this to a web server?
 
-If you do not have a dedicated server, I highly recommend using PythonAnywhere, AWS or Heroku to host your application.
-
-## Reference
-
-- [ChatterBot](https://github.com/gunthercox/ChatterBot)
-
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Branch
-3. Commit your changes
-4. Push to the Branch
-5. Open a Pull Request
+I used Heroku to host this application.
 
 ## Engineer
 
